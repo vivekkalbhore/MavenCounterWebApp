@@ -9,7 +9,11 @@ New changes from github
 
 <<<<<<< HEAD
 DevOps Team Vivek Test Changes Sample file triggring a build POL
+<<<<<<< HEAD
 CHR Solution--> Job-->Vicky
 Test Vivek August
 gdashahsghgsavdhgvadhs
 Vivek Testttttt
+=======
+CHR Solution--> Job-->Vicky_test
+>>>>>>> edd00b77df0a9592c6dcff2c3248285894d48974
